@@ -1,0 +1,3630 @@
+ip:140.112.41.60
+os:None
+product_model:None
+device_type:printer
+ports:80/http 
+ip:140.112.57.67
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:80/http 
+ip:140.112.142.47
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:80/http 
+ip:140.112.92.197
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:80/http 
+ip:140.112.120.74
+os:None
+product_model:Konica Minolta Printer
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.32.149
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.10.198
+os:None
+product_model:Konica Minolta Printer
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.185.144
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.120.151
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.185.151
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.153.53
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.139.154
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.88.3
+os:None
+product_model:Sharp MX-M266N
+device_type:printer
+ports:21/ftp 
+ip:140.112.128.105
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.172.180
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.65.111
+os:None
+product_model:Konica Minolta Printer
+device_type:printer
+ports:80/http 21/ftp 25/smtp 
+ip:140.112.94.252
+os:None
+product_model:Konica Minolta Printer
+device_type:printer
+ports:80/http 21/ftp 25/smtp 
+ip:140.112.131.173
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.140.32
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.153.226
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.32.4
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.172.161
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.10.138
+os:None
+product_model:Konica Minolta Printer
+device_type:printer
+ports:80/http 21/ftp 25/smtp 
+ip:140.112.118.66
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.112.172
+os:None
+product_model:Xerox DocuPrint CM305 df
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.163.141
+os:None
+product_model:Sharp MX-3114N
+device_type:printer
+ports:21/ftp 
+ip:140.112.31.50
+os:None
+product_model:Synology Nas
+device_type:printer
+ports:443/https 22/ssh 21/ftp 80/http 23/telnet 
+ip:140.112.156.123
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.64.150
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.28.211
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.136.142
+os:None
+product_model:Ricoh MP C2004ex
+device_type:printer
+ports:80/http 23/telnet 21/ftp 8080/http 
+ip:140.112.171.16
+os:None
+product_model:Xerox DocuPrint CM405 df
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.22.234
+os:None
+product_model:Xerox DocuPrint M355 df
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.117.27
+os:None
+product_model:Sharp MX-2010U
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.99.41
+os:None
+product_model:Xerox DocuPrint CM305 df
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.75.130
+os:None
+product_model:Xerox DocuPrint P455 d
+device_type:printer
+ports:80/http 23/telnet 21/ftp 
+ip:140.112.20.191
+os:None
+product_model:Xerox DocuPrint CM405 df
+device_type:printer
+ports:80/http 23/telnet 21/ftp 
+ip:140.112.191.201
+os:None
+product_model:Ricoh MP C2004
+device_type:printer
+ports:80/http 23/telnet 21/ftp 8080/http 
+ip:140.112.185.180
+os:None
+product_model:Ricoh MP 6054
+device_type:printer
+ports:80/http 23/telnet 21/ftp 8080/http 
+ip:140.112.57.97
+os:None
+product_model:Xerox DocuPrint C1110
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.42.78
+os:None
+product_model:Xerox DocuPrint CM305 df
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.67.21
+os:None
+product_model:Xerox DocuPrint CM405 df
+device_type:printer
+ports:80/http 23/telnet 21/ftp 
+ip:140.112.122.28
+os:None
+product_model:Xerox DocuPrint CP305 d
+device_type:printer
+ports:80/http 21/ftp 
+ip:140.112.131.121
+os:None
+product_model:Ricoh MP C6004ex
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.179.134
+os:None
+product_model:Xerox DocuPrint CM315
+device_type:printer
+ports:443/https 80/http 21/ftp 465/smtp 
+ip:140.112.117.115
+os:None
+product_model:HP LaserJet Professional P1606dn
+device_type:printer
+ports:80/http 23/telnet 8080/http 
+ip:140.112.70.19
+os:None
+product_model:HP LaserJet P2055x
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.148.96
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.52.97
+os:None
+product_model:HP LaserJet Professional P1606dn
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.140.6
+os:None
+product_model:Canon Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.43.243
+os:None
+product_model:HP LaserJet M2727nf MFP
+device_type:printer
+ports:80/http 
+ip:140.112.109.91
+os:None
+product_model:HP LaserJet Professional P1606dn
+device_type:printer
+ports:80/http 
+ip:140.112.84.119
+os:None
+product_model:HP LaserJet P2055dn
+device_type:printer
+ports:443/https 23/telnet 80/http 
+ip:140.112.106.131
+os:None
+product_model:HP LaserJet P2055x
+device_type:printer
+ports:443/https 23/telnet 80/http 
+ip:140.112.99.13
+os:None
+product_model:HP LaserJet CP1525nw
+device_type:printer
+ports:80/http 
+ip:140.112.84.194
+os:None
+product_model:HP LaserJet Professional M1212nf MFP
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.10.118
+os:None
+product_model:HP LaserJet Professional M1212nf MFP
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.48.38
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.180.49
+os:None
+product_model:HP ENVY 4520 series F0V63A
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.116.108
+os:None
+product_model:Sharp MX-M465N
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.182.68
+os:None
+product_model:Brother HL-L2360D
+device_type:printer
+ports:80/http 23/telnet 
+ip:140.112.59.237
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 
+ip:140.112.104.90
+os:None
+product_model:HP LaserJet 400 color M451dn
+device_type:printer
+ports:80/http 
+ip:140.112.56.65
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 
+ip:140.112.177.97
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.119.147
+os:None
+product_model:HP LaserJet M1536dnf MFP
+device_type:printer
+ports:80/http 
+ip:140.112.190.190
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 
+ip:140.112.106.117
+os:None
+product_model:HP LaserJet Pro M501dn
+device_type:printer
+ports:80/http 
+ip:140.112.56.109
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 
+ip:140.112.21.175
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.67.224
+os:None
+product_model:HP LaserJet MFP M426fdw
+device_type:printer
+ports:80/http 
+ip:140.112.49.126
+os:None
+product_model:None
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.12.177
+os:None
+product_model:Brother DCP-L2540DW
+device_type:printer
+ports:443/https 23/telnet 80/http 
+ip:140.112.22.81
+os:None
+product_model:HP LaserJet M1536dnf MFP
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.12.154
+os:None
+product_model:HP LaserJet 400 colorMFP M475dn
+device_type:printer
+ports:80/http 
+ip:140.112.20.31
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 
+ip:140.112.135.119
+os:None
+product_model:HP Color LaserJet Pro MFP M176n
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.107.125
+os:None
+product_model:HP Color LaserJet M452dn
+device_type:printer
+ports:80/http 
+ip:140.112.46.199
+os:None
+product_model:HP LaserJet MFP M426fdw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.86.121
+os:None
+product_model:HP LaserJet M1536dnf MFP
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.26.101
+os:None
+product_model:Brother DCP-L2540DW
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.69.95
+os:None
+product_model:HP LaserJet 400 color M451dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.72.223
+os:None
+product_model:HP Color LaserJet Pro MFP M176n
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.175.215
+os:None
+product_model:HP LaserJet 400 color M451dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.179.175
+os:None
+product_model:Sharp MX-3114N
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.140.119
+os:None
+product_model:HP Color LaserJet MFP M281fdw
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.90.241
+os:None
+product_model:Sharp MX-M465N
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.117.7
+os:None
+product_model:HP Color LaserJet M255dw
+device_type:printer
+ports:80/http 
+ip:140.112.28.184
+os:None
+product_model:HP LaserJet MFP M227fdn
+device_type:printer
+ports:80/http 
+ip:140.112.11.185
+os:None
+product_model:HP LaserJet M402dn
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.45.14
+os:None
+product_model:Brother MFC-L8900CDW
+device_type:printer
+ports:443/https 80/http 25/smtp 
+ip:140.112.231.197
+os:None
+product_model:HP Color LaserJet M154nw
+device_type:printer
+ports:80/http 
+ip:140.112.120.154
+os:None
+product_model:HP Color LaserJet M255dw
+device_type:printer
+ports:80/http 
+ip:140.112.139.143
+os:None
+product_model:HP Color LaserJet MFP M281fdw
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.139.158
+os:None
+product_model:HP Color LaserJet MFP M183fw
+device_type:printer
+ports:80/http 
+ip:140.112.67.105
+os:None
+product_model:None
+device_type:printer
+ports:443/https 
+ip:140.112.49.194
+os:None
+product_model:HP LaserJet CM1415fn
+device_type:printer
+ports:80/http 8080/http 
+ip:140.112.140.145
+os:None
+product_model:HP Printer
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 
+ip:140.112.66.205
+os:None
+product_model:HP Color LaserJet CP4025
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.180.166
+os:None
+product_model:HP LaserJet Pro M501dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.41.187
+os:None
+product_model:HP LaserJet M402dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.48.234
+os:None
+product_model:HP Color LaserJet MFP M277dw
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.23.190
+os:None
+product_model:HP LaserJet M402dn
+device_type:printer
+ports:443/https 8080/http 
+ip:140.112.20.12
+os:None
+product_model:HP LaserJet M402dn
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.10.216
+os:None
+product_model:HP Color LaserJet MFP M277dw
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.116.75
+os:None
+product_model:HP LaserJet M203dw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.69.31
+os:None
+product_model:HP Color LaserJet M255dw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.156.70
+os:None
+product_model:HP LaserJet MFP M426fdn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.22.187
+os:None
+product_model:HP LaserJet Pro MFP M521dn
+device_type:printer
+ports:443/https 23/telnet 21/ftp 80/http 8080/http 
+ip:140.112.177.103
+os:None
+product_model:HP LaserJet 400 colorMFP M475dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.84.19
+os:None
+product_model:HP LaserJet P3015 
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.110.228
+os:None
+product_model:HP LaserJet P3015
+device_type:printer
+ports:443/https 80/http 21/ftp 
+ip:140.112.180.162
+os:None
+product_model:HP LaserJet MFP M426fdw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.52.113
+os:None
+product_model:HP Color LaserJet Pro M252dw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.56.204
+os:None
+product_model:HP Color LaserJet MFP M281fdw
+device_type:printer
+ports:443/https 80/http 
+ip:140.112.21.126
+os:None
+product_model:HP LaserJet MFP M426fdn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.110.235
+os:None
+product_model:HP LaserJet M402dne
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.43.70
+os:None
+product_model:HP LaserJet 400 colorMFP M475dn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.42.34
+os:None
+product_model:HP Color LaserJet MFP M281fdw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.120.178
+os:None
+product_model:HP Color LaserJet M154nw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.207.51
+os:None
+product_model:HP Color LaserJet MFP M281fdw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.69.173
+os:None
+product_model:HP Color LaserJet MFP M277dw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.53.242
+os:None
+product_model:HP LaserJet MFP M130fw
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.107.242
+os:None
+product_model:HP LaserJet MFP M227fdn
+device_type:printer
+ports:443/https 80/http 8080/http 
+ip:140.112.90.189
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.143.42
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.18.96
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.66.152
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.90.180
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.180.25
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.66.155
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.66.151
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.177.141
+os:None
+product_model:DLink Wireless Router
+device_type:router
+ports:8080/http 
+ip:140.112.133.3
+os:None
+product_model:DLink Wireless Router
+device_type:router
+ports:8080/http 
+ip:140.112.119.69
+os:None
+product_model:DLink Wireless Router
+device_type:router
+ports:3389/rdp 8080/http 
+ip:140.112.90.184
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 22/ssh 
+ip:140.112.90.182
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 22/ssh 
+ip:140.112.137.204
+os:Windows
+product_model:DLink Wireless Router
+device_type:router
+ports:80/http 21/ftp 3389/rdp 8080/http 
+ip:140.112.166.173
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.102.157
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.202.226
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.140.250
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.142.149
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.58.209
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.174.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.69.252
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.142.150
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.110.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.12.249
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.148.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.162.252
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.83.206
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.92.242
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.58.126
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.145.27
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.141.95
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.52.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.119.240
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.246
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.185.148
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.69.248
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.44.69
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.116.243
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.88.87
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.61.252
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.244
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.186.126
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.187.156
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.251
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.187.126
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.83.190
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.145.189
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.62.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.62.116
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.88.197
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.32.100
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.176.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.95.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.99.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.59.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.33.123
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.177.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.178.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.143.190
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.96.252
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.248
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.86.96
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.95.126
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.88.14
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.93.46
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.245
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.249
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.166.212
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.23.133
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.93.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.76.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.182.93
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.187.118
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.182.250
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.95.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.111.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.34.3
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.95.190
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.75.2
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.96.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.165.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.140.247
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.14.4
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.12.248
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.78.250
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.112.251
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.145.28
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.175.254
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.141.251
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.186.158
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.69.251
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.152.190
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.93.30
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.172.86
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.84.252
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.147.181
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.154.118
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.165.61
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.153.253
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.83.245
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.229.248
+os:None
+product_model:None
+device_type:router
+ports:443/https 22/ssh 
+ip:140.112.180.17
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.185.43
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 23/telnet 
+ip:140.112.154.117
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.79.5
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.174.249
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 
+ip:140.112.163.16
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.80.15
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.116.242
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.163.209
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.57.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 
+ip:140.112.19.199
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 23/telnet 
+ip:140.112.186.16
+os:Windows
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.117.249
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 
+ip:140.112.110.251
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 23/telnet 
+ip:140.112.185.170
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.160.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.174.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.49.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.42.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.149.101
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.175.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.49.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.41.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.93.36
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 
+ip:140.112.42.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.175.251
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.213.71
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.145.125
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.48.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.175.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.174.251
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.61.60
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.41.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.41.251
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.81.97
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.174.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.175.249
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.33.190
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.174.250
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.175.42
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.175.250
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.49.251
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.7.232
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.106.249
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 
+ip:140.112.42.251
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.67.135
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 22/ssh 
+ip:140.112.48.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.170.252
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.160.86
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.175.248
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.185.130
+os:None
+product_model:ASUS RT-AC1300GPLUS
+device_type:router
+ports:21/ftp 
+ip:140.112.106.253
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 22/ssh 
+ip:140.112.217.124
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:443/https 22/ssh 23/telnet 
+ip:140.112.174.200
+os:Cisco IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:22/ssh 23/telnet 
+ip:140.112.57.49
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:80/http 22/ssh 23/telnet 
+ip:140.112.54.52
+os:None
+product_model:ASUS RT-N15U
+device_type:router
+ports:21/ftp 
+ip:140.112.57.22
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.154.104
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.174.154
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.49.201
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.18.3
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.27.93
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.27.96
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.154.105
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.88.88
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:443/https 22/ssh 80/http 23/telnet 
+ip:140.112.154.106
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.142.147
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:443/https 22/ssh 80/http 23/telnet 
+ip:140.112.65.240
+os:IOS
+product_model:Cisco Infrastructure Router
+device_type:router
+ports:443/https 22/ssh 80/http 23/telnet 
+ip:140.112.145.180
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.83.81
+os:None
+product_model:None
+device_type:router
+ports:8080/http 
+ip:140.112.83.82
+os:None
+product_model:None
+device_type:router
+ports:8080/http 
+ip:140.112.200.206
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.211.51
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.101.54
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.221.165
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.94.253
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.253.43
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.212.241
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.14.229
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.253.111
+os:None
+product_model:None
+device_type:router
+ports:80/http 
+ip:140.112.84.45
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 
+ip:140.112.138.79
+os:Windows
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.166.230
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.160.178
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.157
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.111.101
+os:None
+product_model:None
+device_type:router
+ports:443/https 8080/http 
+ip:140.112.185.198
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.175.14
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.240
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.17.130
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.117.75
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.179.64
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.180.72
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.205.119
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.165
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.205.118
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.40.243
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.179.63
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.205.117
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.160.173
+os:None
+product_model:None
+device_type:router
+ports:443/https 3389/rdp 
+ip:140.112.104.45
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.135.48
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.183
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.186.1
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.55.229
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.85.2
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.118.138
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.119.209
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.17.56
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.111.100
+os:None
+product_model:None
+device_type:router
+ports:443/https 8080/http 
+ip:140.112.47.100
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.160.172
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.179.9
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.17.131
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.52.206
+os:None
+product_model:DrayTek Vigor Router
+device_type:router
+ports:443/https 8080/http 
+ip:140.112.186.15
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.117.80
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.244
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.111.99
+os:Win32
+product_model:None
+device_type:router
+ports:443/https 80/http 3389/rdp 8080/http 
+ip:140.112.44.116
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.186.11
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.95.1
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.205.115
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.160.174
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.139.4
+os:None
+product_model:Synology Nas
+device_type:router
+ports:443/https 
+ip:140.112.117.153
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.21.98
+os:None
+product_model:Synology Nas
+device_type:router
+ports:443/https 
+ip:140.112.122.47
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.89.47
+os:Windows
+product_model:None
+device_type:router
+ports:443/https 3306/mysql 3389/rdp 80/http 
+ip:140.112.166.237
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.218
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.219
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.48.84
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 21/ftp 
+ip:140.112.186.31
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.253
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.159
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.158
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.89.52
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.166.233
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.104.53
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.166.239
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.94.128
+os:None
+product_model:None
+device_type:router
+ports:443/https 23/telnet 
+ip:140.112.186.41
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.94.129
+os:Windows
+product_model:None
+device_type:router
+ports:443/https 23/telnet 80/http 
+ip:140.112.166.238
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.104.57
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.185.141
+os:None
+product_model:None
+device_type:router
+ports:443/https 8888/http 
+ip:140.112.160.171
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.160.175
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.67.3
+os:None
+product_model:None
+device_type:router
+ports:443/https 8888/http 
+ip:140.112.179.33
+os:Ubuntu
+product_model:None
+device_type:router
+ports:443/https 22/ssh 80/http 23/telnet 
+ip:140.112.185.139
+os:None
+product_model:None
+device_type:router
+ports:443/https 8888/http 
+ip:140.112.63.133
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.179.32
+os:Ubuntu
+product_model:None
+device_type:router
+ports:443/https 22/ssh 80/http 23/telnet 
+ip:140.112.49.153
+os:None
+product_model:None
+device_type:router
+ports:3389/rdp 8080/http 
+ip:140.112.56.100
+os:None
+product_model:ASUS RT-AC51U
+device_type:router
+ports:443/https 21/ftp 
+ip:140.112.96.96
+os:Ubuntu
+product_model:None
+device_type:router
+ports:80/http 22/ssh 
+ip:140.112.175.111
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.175.39
+os:None
+product_model:None
+device_type:router
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.186.21
+os:None
+product_model:None
+device_type:router
+ports:443/https 22/ssh 80/http 
+ip:140.112.52.207
+os:None
+product_model:None
+device_type:router
+ports:23/telnet 3389/rdp 8080/http 
+ip:140.112.85.3
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.194.106
+os:None
+product_model:None
+device_type:router
+ports:8080/http 
+ip:140.112.18.157
+os:None
+product_model:None
+device_type:router
+ports:443/https 80/http 
+ip:140.112.52.209
+os:Windows
+product_model:None
+device_type:router
+ports:443/https 80/http 3389/rdp 8080/http 
+ip:140.112.135.177
+os:None
+product_model:None
+device_type:router
+ports:443/https 
+ip:140.112.62.130
+os:Win32
+product_model:Entrolink DSL/cable Modem
+device_type:router
+ports:443/https 3306/mysql 80/http 
+ip:140.112.52.208
+os:Win64
+product_model:None
+device_type:router
+ports:443/https 23/telnet 3389/rdp 80/http 8080/http 
+ip:140.112.167.236
+os:Ubuntu
+product_model:None
+device_type:router
+ports:80/http 22/ssh 
+ip:140.112.152.221
+os:None
+product_model:Axis M1031-W Network Camera
+device_type:camera
+ports:80/http 21/ftp 
+ip:140.112.7.225
+os:None
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.12.206
+os:None
+product_model:None
+device_type:camera
+ports:443/https 80/http 8080/http 
+ip:140.112.99.248
+os:None
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.99.199
+os:None
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.31.83
+os:Win64
+product_model:None
+device_type:camera
+ports:80/http 21/ftp 3389/rdp 
+ip:140.112.18.217
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 22/ssh 6379/redis 9090/prometheus 27017/mongodb 
+ip:140.112.57.112
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 22/ssh 80/http 8888/http 
+ip:140.112.112.19
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.112.205
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.29.204
+os:None
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.29.214
+os:None
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.36.194
+os:Windows
+product_model:None
+device_type:camera
+ports:80/http 8080/http 
+ip:140.112.28.111
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 22/ssh 80/http 
+ip:140.112.67.186
+os:None
+product_model:QNAP Turbo NAS
+device_type:camera
+ports:80/http 3306/mysql 21/ftp 8080/http 443/https 22/ssh 
+ip:140.112.36.130
+os:Unix
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.70.48
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 22/ssh 80/http 
+ip:140.112.41.56
+os:Windows
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.41.58
+os:Windows
+product_model:None
+device_type:camera
+ports:80/http 22/ssh 
+ip:140.112.92.241
+os:Windows
+product_model:None
+device_type:camera
+ports:80/http 1433/mssql 
+ip:140.112.28.244
+os:None
+product_model:None
+device_type:camera
+ports:443/https 3389/rdp 8080/http 
+ip:140.112.105.26
+os:Ubuntu
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.158.24
+os:None
+product_model:None
+device_type:camera
+ports:443/https 80/http 
+ip:140.112.70.10
+os:Win32
+product_model:Entrolink DSL/cable Modem
+device_type:camera
+ports:443/https 3306/mysql 21/ftp 80/http 
+ip:140.112.66.75
+os:CentOS
+product_model:None
+device_type:camera
+ports:80/http 3306/mysql 25/smtp 21/ftp 443/https 22/ssh 
+ip:140.112.99.134
+os:None
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.36.225
+os:CentOS
+product_model:None
+device_type:camera
+ports:80/http 
+ip:140.112.76.194
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 
+ip:140.112.14.32
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 
+ip:140.112.104.86
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 8080/http 
+ip:140.112.116.143
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 21/ftp 
+ip:140.112.70.33
+os:None
+product_model:QNAP TS Series NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 
+ip:140.112.14.31
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 
+ip:140.112.166.83
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.56.71
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.12.76
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.100.61
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.138.240
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:21/ftp 
+ip:140.112.64.75
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.65.74
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.59.128
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.34.230
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:21/ftp 
+ip:140.112.117.152
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.100.63
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.136.94
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 8080/http 
+ip:140.112.129.133
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.66.100
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.59.185
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.66.101
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.133.169
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.17.158
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 80/http 8080/http 
+ip:140.112.66.9
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.133.136
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.27.133
+os:Ubuntu
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.66.7
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.93.34
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.86.36
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 8080/http 
+ip:140.112.136.144
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 80/http 8080/http 
+ip:140.112.64.155
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.127.129
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 22/ssh 8080/http 
+ip:140.112.146.18
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:80/http 21/ftp 8080/http 
+ip:140.112.160.212
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.160.220
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.133.174
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.89.98
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.67.185
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 8080/http 443/https 22/ssh 
+ip:140.112.160.78
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 21/ftp 
+ip:140.112.94.136
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.116.136
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.185.244
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 25/smtp 8080/http 
+ip:140.112.156.58
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.128.2
+os:None
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.126.138
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:21/ftp 
+ip:140.112.128.74
+os:None
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.29.18
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.254.110
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:3306/mysql 21/ftp 
+ip:140.112.12.189
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.116.241
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 21/ftp 
+ip:140.112.89.251
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.79.58
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.98.201
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.56.238
+os:None
+product_model:Western Digital MyCloud
+device_type:nas
+ports:80/http 21/ftp 
+ip:140.112.42.53
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.181.228
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.42.200
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.52.141
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.14.232
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.181.236
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.106.218
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.175.226
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.136.163
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.46.7
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.129.28
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.27.30
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.179.158
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.64.212
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.94.39
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.254.125
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 1433/mssql 
+ip:140.112.147.123
+os:None
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.254.109
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 1433/mssql 
+ip:140.112.12.228
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.10.90
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.182.84
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.88.231
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 8080/http 
+ip:140.112.254.119
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:1883/mqtt 3306/mysql 21/ftp 443/https 80/http 
+ip:140.112.254.105
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:1883/mqtt 443/https 21/ftp 80/http 1433/mssql 
+ip:140.112.254.100
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 1433/mssql 
+ip:140.112.113.52
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.183.121
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.63.14
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.140.142
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.194.101
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.89.41
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 
+ip:140.112.31.50
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 23/telnet 
+ip:140.112.27.139
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.162.19
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.183.108
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 3389/rdp 
+ip:140.112.64.137
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.110.170
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.92.246
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 
+ip:140.112.26.228
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 
+ip:140.112.154.102
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.164.129
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.179.85
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.116.20
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 53/dns 
+ip:140.112.94.166
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 
+ip:140.112.64.95
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 
+ip:140.112.99.164
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.22.108
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 53/dns 
+ip:140.112.52.142
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.116.14
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.190.217
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.139.21
+os:None
+product_model:None
+device_type:nas
+ports:21/ftp 
+ip:140.112.15.61
+os:None
+product_model:Thecus N7700
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.21.98
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.48.121
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.139.4
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.76.69
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.106.166
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.208.12
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.28.100
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.136.189
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 5432/postgres 
+ip:140.112.122.150
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.28.178
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.164.128
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 22/ssh 5432/postgres 23/telnet 
+ip:140.112.89.164
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.17.185
+os:Unix
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.85.87
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 5432/postgres 
+ip:140.112.116.132
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 5432/postgres 
+ip:140.112.85.86
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 5432/postgres 
+ip:140.112.31.52
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:80/http 23/telnet 3306/mysql 25/smtp 110/pop3 21/ftp 143/imap 443/https 22/ssh 
+ip:140.112.92.240
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.99.166
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 53/dns 
+ip:140.112.135.55
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.158.82
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.177.68
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 8080/http 
+ip:140.112.27.162
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 3306/mysql 80/http 
+ip:140.112.177.109
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 
+ip:140.112.12.169
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.89.234
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.182.139
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.112.69
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.207.52
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 3306/mysql 21/ftp 
+ip:140.112.37.48
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.32.244
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.10.125
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 21/ftp 3389/rdp 
+ip:140.112.147.250
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.139.145
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.29.173
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:80/http 
+ip:140.112.62.172
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 21/ftp 
+ip:140.112.26.68
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 3306/mysql 80/http 
+ip:140.112.12.5
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.163.233
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.29.165
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:80/http 
+ip:140.112.40.1
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.146.5
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 53/dns 
+ip:140.112.33.238
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.64.185
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 21/ftp 
+ip:140.112.29.169
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:80/http 
+ip:140.112.43.68
+os:None
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.59.93
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.98.51
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 8080/http 443/https 22/ssh 
+ip:140.112.74.187
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.59.101
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.179.82
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.59.199
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.12.95
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.18.219
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.180.168
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.106.167
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 3306/mysql 21/ftp 25/smtp 80/http 
+ip:140.112.56.115
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.21.8
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 53/dns 
+ip:140.112.45.129
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.12.63
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.82.98
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.107.241
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.31.29
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 3389/rdp 
+ip:140.112.110.85
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.103.200
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.51.185
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 80/http 3306/mysql 
+ip:140.112.12.92
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.28.94
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 
+ip:140.112.245.209
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.52.117
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.103.13
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.190.154
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.180.169
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 8080/http 
+ip:140.112.168.138
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.45.218
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.164.124
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.18.72
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.94.195
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.162.41
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.68.197
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 
+ip:140.112.31.30
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 3389/rdp 80/http 
+ip:140.112.133.36
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.46.197
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.171.65
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.127.127
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.124.222
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 22/ssh 
+ip:140.112.147.131
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.160.121
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.156.177
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.76.179
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.111.139
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.64.136
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.28.85
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 53/dns 
+ip:140.112.45.153
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.109.44
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.139.13
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.60.120
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.166.18
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.148.229
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.76.178
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.72.21
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.190.1
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.111.72
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.181.227
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.153.227
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.120.60
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.15.45
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.43.250
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.180.65
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.135.13
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.190.69
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.158.81
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.153.221
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.109.125
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:80/http 22/ssh 21/ftp 
+ip:140.112.143.228
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.187.147
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.26.120
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.48.101
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.103.15
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 143/imap 3306/mysql 
+ip:140.112.29.231
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.127.208
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.142.81
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 8888/http 
+ip:140.112.122.157
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.135.4
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.103.42
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.57.103
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.93.5
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.160.159
+os:Unix
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 23/telnet 
+ip:140.112.31.67
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.160.89
+os:Unix
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 23/telnet 
+ip:140.112.27.2
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 3306/mysql 
+ip:140.112.136.102
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.181.225
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.135.65
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:80/http 993/imaps 465/smtp 995/pop3s 25/smtp 110/pop3 21/ftp 587/smtp 443/https 22/ssh 
+ip:140.112.190.14
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.76.111
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.12.37
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.98.122
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.68.98
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.64.44
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.155.127
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.56.226
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 53/dns 
+ip:140.112.92.188
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.14.184
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.190.27
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.18.132
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.172.135
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.57.129
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.30.211
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.148.28
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.26.87
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.191.232
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.85.99
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.135.53
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.51.83
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.94.139
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.30.221
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.69.115
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.98.121
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.142.178
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.143.243
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.106.100
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.181.226
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.134.41
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.99.209
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.29.219
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.123.5
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.12.88
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.135.14
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.208.132
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.31.166
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 
+ip:140.112.141.117
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 
+ip:140.112.174.17
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 25/smtp 
+ip:140.112.65.117
+os:None
+product_model:None
+device_type:nas
+ports:80/http 21/ftp 
+ip:140.112.30.229
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:443/https 80/http 21/ftp 8080/http 
+ip:140.112.28.132
+os:None
+product_model:Synology WebStation
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.126.129
+os:CentOS
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 80/http 21/ftp 25/smtp 
+ip:140.112.106.129
+os:None
+product_model:Synology RackStation
+device_type:nas
+ports:80/http 465/smtp 995/pop3s 993/imaps 21/ftp 8080/http 587/smtp 443/https 22/ssh 
+ip:140.112.23.215
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.41.141
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.44.34
+os:None
+product_model:None
+device_type:nas
+ports:80/http 21/ftp 
+ip:140.112.21.194
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.135.177
+os:None
+product_model:None
+device_type:nas
+ports:443/https 
+ip:140.112.185.178
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.45.220
+os:None
+product_model:None
+device_type:nas
+ports:80/http 
+ip:140.112.26.28
+os:None
+product_model:None
+device_type:nas
+ports:443/https 
+ip:140.112.38.15
+os:None
+product_model:None
+device_type:nas
+ports:443/https 25/smtp 
+ip:140.112.30.212
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.27.175
+os:None
+product_model:None
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.135.179
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.12.172
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.135.178
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.94.127
+os:None
+product_model:None
+device_type:nas
+ports:80/http 465/smtp 995/pop3s 25/smtp 993/imaps 587/smtp 443/https 22/ssh 
+ip:140.112.20.147
+os:None
+product_model:None
+device_type:nas
+ports:443/https 80/http 
+ip:140.112.103.17
+os:None
+product_model:Synology Nas
+device_type:nas
+ports:443/https 22/ssh 80/http 
+ip:140.112.67.186
+os:None
+product_model:QNAP Turbo NAS
+device_type:nas
+ports:80/http 3306/mysql 21/ftp 8080/http 443/https 22/ssh 
+ip:140.112.63.155
+os:None
+product_model:Synology DiskStation
+device_type:nas
+ports:443/https 22/ssh 21/ftp 80/http 

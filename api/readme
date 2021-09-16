@@ -1,0 +1,3 @@
+summary
+input : log/cveInfo.log log/cens_log/xx
+output : log/ip/xxx log/device/xxx 

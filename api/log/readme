@@ -1,0 +1,3 @@
+cveinfo stores ip,device,cve num,cve,description,cvss
+ip stores each ip info containing ip,device,devicemodel,cve,description,cvss
+cens_log/xxxx_ip stores each device's ip

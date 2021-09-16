@@ -1,0 +1,38 @@
+.device-name{
+	border-radius : 5% / 70%;
+	background : #fff;
+	width : 98%;
+	margin : 5px 10px 10px 10px;
+        margin-bottom : 10px;
+        border-left : 30px;
+        padding : 20px;
+	padding-left : 25px;
+        font-family : serif , sans-serif , cursive , fantasy , monospace;
+}
+
+
+.card{
+	background : #fff; /* white */
+	border-color : #e6e6fa;
+	margin-bottom : 20px;
+	position : relative;
+	box-shadow : 0 3px 6px rgba(0,0,0,.16) , 0 3px 6px rgba(0,0,0,.23);
+	padding : 20px;
+	font-family : serif , sans-serif , cursive , fantasy , monospace;
+}
+.two{
+	width : 48%;
+	margin : 0 auto;
+}
+.card:hover{
+	transform: scale(1.01);
+}
+
+
+.table thead th{
+	color:#3C3C3C;
+	border-bottom-color: #dee2e6;
+}
+.table td, .table th {
+    padding: .75rem;
+}
