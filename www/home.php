@@ -121,7 +121,7 @@
 				    <div class="card">
 				      <div class="card-body">
 					<h3 class="card-title">NAS</h3>
-					<a href="site.php?device='nas'&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
+					<a href="site.php?device=nas&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
 				      </div>
 				    </div>
 				  </div>
@@ -129,7 +129,7 @@
 				    <div class="card">
 				      <div class="card-body">
 					<h3 class="card-title">Printer</h3>
-					<a href="site.php?device='printer'&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
+					<a href="site.php?device=printer&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
 				      </div>
 				    </div>
 				  </div>
@@ -141,7 +141,7 @@
 				    <div class="card">
 				      <div class="card-body">
 					<h3 class="card-title">Router</h3>
-					<a href="site.php?device='router'&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
+					<a href="site.php?device=router&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
 				      </div>
 				    </div>
 				  </div>
@@ -149,7 +149,7 @@
 				    <div class="card">
 				      <div class="card-body">
 					<h3 class="card-title">Camera</h3>
-					<a href="site.php?device='camera'&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
+					<a href="site.php?device=camera&table_id=<?php echo $_GET["table_id"]?>" class="btn btn-primary">See more</a>
 				      </div>
 				    </div>
 				  </div>

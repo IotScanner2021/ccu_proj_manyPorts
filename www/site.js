@@ -2,12 +2,14 @@ function createTable(device){
 
 	var xhttp = new XMLHttpRequest();
 	//var url = "../api/log/device/" + device + ".json";
-	var url = "./device_type.txt";
-	xhttp.open("GET" , url , false);
+	var device = document.getElementById('device').innerHTML;
+	var table_id = document.getElementById('table_id').innerHTML;
+	var url = "./site_prod.php?device="+device+"&table_id="+table_id;
+	console.log(url);
+	xhttp.open("GET",url,false);
 	xhttp.send();
 	obj = JSON.parse(xhttp.responseText);
 	
-	var table_id = document.getElementById('table_id').innerHTML;
 	if(table_id != 1){
 		var row = document.getElementById(device);
 		var col = document.createElement('div');

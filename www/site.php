@@ -49,43 +49,14 @@
 			<div class="container">
 				<div class="row">
 					<div id="table_id" style="display:none;"><?php echo $_GET["table_id"];?></div>
+					<div id="device" style="display:none;"><?php echo $_GET["device"];?></div>
 					<div class="device-name">
-		    				<h1 class="w3-border-bottom w3-border-light-grey w3-padding-16"><?php echo "Device : ".substr($_GET["device"],1,strlen($_GET["device"])-2);?></h1>
+		    				<h1 class="w3-border-bottom w3-border-light-grey w3-padding-16"><?php echo "Device : ".$_GET["device"];?></h1>
 					</div>
 				</div>
 				<div id="all"></div>
 				<div class="row" id=<?php echo $_GET["device"];?> name="device">
 					
-					<?php
-
-                                        	$severname = "localhost";
-                                         	$username = "root";
-                                         	$password = "a407410040";
-                                         	$database = "iot";
-                                         	$port = 3306; 
- 	                                        $conn = mysqli_connect($severname,$username,$password,$database);
-						$device = $_GET["device"];
-						$table_id = $_GET["table_id"];
-						$query = "select * from ip_".$table_id." where device_type=" . $device;
-						$result = $conn->query($query);
-
-						if($result->num_rows>0){
-							$myfile = fopen("./device_type.txt" , "w");
-							$row = $result->fetch_assoc();
-							$txt = '[{"ip":"' .$row['ip']. '"}';
-							fwrite($myfile , $txt);
-							
-							while($row = $result->fetch_assoc()){
-								$txt = ',{"ip":"' .$row['ip']. '"}';
-								fwrite($myfile , $txt);
-							}
-							$result->free();
-						}
-						$txt = ']';
-						fwrite($myfile , $txt);
-						fclose($myfile);
-					  ?>
-
 				</div>
 			</div>
 		</div>
