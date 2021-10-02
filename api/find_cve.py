@@ -177,6 +177,83 @@ def db_output():
     db.commit()
     db.close()
 
+def update_table(table_id):
+    db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)
+    cursor = db.cursor()
+  
+    #drop table
+    sql = "drop table port_"+table_id
+    cursor.execute(sql)
+    
+    sql = "drop table cve_"+table_id
+    cursor.execute(sql)
+   
+    sql = "drop table ip_"+table_id
+    cursor.execute(sql)
+
+    #create table
+    sql = "create table ip_" + table_id + "(\
+        ip char(20),\
+        os char(50),\
+        session text,\
+        site char(20),\
+        product_model char(50),\
+        device_type char(50),\
+        primary key (ip)\
+    )"
+    cursor.execute(sql)
+
+    sql = "create table port_" + table_id + "(\
+        port_ip char(20),\
+        port int,\
+        foreign key (port_ip) references ip_" + table_id + "(ip) on delete cascade on update cascade\
+    )"
+    
+    cursor.execute(sql)
+    sql = "create table cve_" + table_id + "(\
+        cve_ip char(20),\
+        cve_id char(50),\
+        cvss float,\
+        description text,\
+        foreign key (cve_ip) references ip_" + table_id + "(ip) on delete cascade on update cascade\
+    )"
+    cursor.execute(sql)
+
+    #insert value
+    for i in range(len(ip_infos)):
+        #ip table
+        if ip_infos[i]["ip"] in ip_db:
+            continue
+        ip_db.append(ip_infos[i]["ip"])
+        ip = ip_infos[i]["ip"]
+        os = ip_infos[i]["os"]
+        devicetype = ip_infos[i]["device_type"]
+        devicemodel = str(ip_infos[i]["device_model"])
+        
+        sql = "insert into ip_" + table_id +" (ip,os,product_model,device_type) values (%s,%s,%s,%s)"
+        cursor.execute(sql,(ip,os,devicemodel,devicetype))
+        
+        #cve table
+        for j in range(len(ip_infos[i]["cve"])):
+            cveeid = ip_infos[i]["cve"][j]
+            description = ip_infos[i]["description"][j]
+            cvss = float(ip_infos[i]["cvss"][j])
+            sql = "insert into cve_" + table_id + " (cve_ip,cve_id,description,cvss) values (%s,%s,%s,%s)"
+            cursor.execute(sql,(ip,cveeid,description,cvss))
+        
+        #port table
+        for j in range(len(ip_infos[i]["port"])):
+            port = ip_infos[i]["port"][j]
+            sql = "insert into port_" + table_id + " (port_ip,port) values (%s,%s)"
+            cursor.execute(sql,(ip,port))
+         
+
+    sql = "select * from ip_" + table_id
+    cursor.execute(sql)
+    print(cursor.fetchall())
+    
+    db.commit()
+    db.close()
 
 def summary():
     putipInfo()

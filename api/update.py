@@ -117,7 +117,7 @@ def nmap_thread(ips,first,end):
         cve = nmap_info["cve"]
         nmap_infos.append(nmap_info)
 
-def nmap_thread_allocate(ips):
+def nmap_threads(ips):
     t_list = []
     
     ip_first = int(len(ips)/10*0)
@@ -182,7 +182,7 @@ def nmap_thread_allocate(ips):
 
 def nmap_interface(ips):
     if len(ips) >= 10:
-        nmap_thread_allocate(ips)
+        nmap_threads(ips)
     else:
         nmap_thread(ips,0,len(ips))
 
@@ -274,7 +274,7 @@ if __name__ == "__main__":
         exit()
     
     
-    '''
+    
     ip = args.ip
     count = args.count
     api = dict()
@@ -285,7 +285,12 @@ if __name__ == "__main__":
 
     c = censys_engine(api)
     c.start()
-    '''
+    
+    find_cve.findCveStart()
+
+    find_cve.putipInfo()
+
+    find_cve.update_table(table_id)
 
     '''
     known ip update

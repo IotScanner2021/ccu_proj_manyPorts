@@ -20,7 +20,7 @@ function loadDoc(){
 				location.href = "home.php?table_id="+table_id+"&ip="+str;
 			}
 		}
-		xmlhttp.open("GET","project.php?ip=" + str,true);
+		xmlhttp.open("GET","construct_db.php?ip=" + str,true);
 		xmlhttp.send();
 	}	
 	

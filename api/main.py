@@ -5,8 +5,7 @@ from cens import censys_engine
 from zoom import zoomeye_engine
 from parser import process_parser
 
-if __name__ == "__main__":
-    
+def construct():
     ## args prepare
     args = process_parser()
     ip = args.ip
@@ -49,3 +48,7 @@ if __name__ == "__main__":
     summary info:devicetype,deviceModel,cvee,cvee description,cvss
     '''
     find_cve.summary()
+
+if __name__ == "__main__":
+   
+    construct()
