@@ -1,5 +1,6 @@
 # IOT scanner
 
+* software info
 * client side
   * home page 
   * construct page
@@ -10,7 +11,7 @@
   * potential vulnerabilities collection
   * vulnerabilities validation
 
-## 軟體資訊
+## software info
 ### Server
 OS : Ubuntu 20.04.2 LTS
 
