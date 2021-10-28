@@ -1,0 +1,43 @@
+index page
+1. index.html
+2. index.css
+
+home page
+1. home.php
+2. home.css
+3. home.js
+4. pie_chart.js
+
+site.page
+1. site.php
+2. site.js
+3. ip_locat.js
+4. site_prod.php
+
+ip page
+1. ip.php
+2. ip.css
+3. ip.js
+4. map.js
+cve_validate.php
+
+update button
+1. update.php
+
+insert page
+1. insert.php
+2. insert.css
+3. insert.js
+4. insert_post.php
+
+search page
+1. search.php
+2. search.js
+
+construct page
+1. construct.php
+2. construct.js
+3. construct_db.php
+
+other file
+1. table.txt : 現在使用的資料庫標號

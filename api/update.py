@@ -12,6 +12,20 @@ from cens import censys_engine
 from zoom import zoomeye_engine
 from parser import process_parser
 
+'''
+getCvesDescrip()
+
+steps
+1. 爬cvedetail網站之資料,取得cve資訊
+
+input
+1. single cve
+
+output
+1. cveinfo
+{"cve":cve,"description":cveDescription,"cvss":cveScore}
+'''
+
 nmap_infos = []
 cveInfos = []
 
@@ -36,6 +50,27 @@ def getCvesDescrip(cve):
     
     cveInfo = {"cve":cve,"description":cveDescription,"cvss":cveScore}
     return cveInfo
+'''
+nmap_single()
+
+steps
+1. command line下nmap指令
+2. 字串擷取
+
+input
+1. single ip
+
+output
+1. nmap_info
+{'ip': ip,
+            'port': ports,
+            'device_type': device,
+            'os': os,
+            'product': product,
+            'vendor': vendor,
+            'cve': cve_list
+}
+'''
 
 def nmap_single(ip):
     #print(ip)
@@ -107,6 +142,13 @@ def nmap_single(ip):
             }
     return nmap_info
 
+'''
+nmap_thread()
+
+steps
+1. 將多ip分成單ip,讓nmap搜索
+2. 補充cve之其他資訊,e.g,cvss
+'''
 
 def nmap_thread(ips,first,end):
     ip = ips[first:end]
@@ -116,6 +158,13 @@ def nmap_thread(ips,first,end):
             print(key+":"+str(value))
         cve = nmap_info["cve"]
         nmap_infos.append(nmap_info)
+
+'''
+nmap_threads()
+
+steps
+1. 區分多個thread,執行nmap_thread
+'''
 
 def nmap_threads(ips):
     t_list = []
@@ -180,11 +229,26 @@ def nmap_threads(ips):
     for t in t_list:
         t.join() 
 
+'''
+nmap_interface()
+
+steps
+1. 判別是否使用multithread
+'''
+
 def nmap_interface(ips):
     if len(ips) >= 10:
         nmap_threads(ips)
     else:
         nmap_thread(ips,0,len(ips))
+
+'''
+update_db()
+
+steps
+1. 將資料填入資料庫
+
+'''
 
 def update_db(table_id):
     db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)
@@ -231,6 +295,14 @@ def update_db(table_id):
     db.commit()
     db.close()
     
+'''
+update_known_ip
+
+steps
+1. nmap_interface
+2. update_db
+
+'''
 
 def update_known_ip(table_id):
     db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)
@@ -263,6 +335,16 @@ def update_known_ip(table_id):
     ''' 
     #update db
     update_db(table_id)
+    
+'''
+__main__
+
+steps
+1. 偵查引擎
+2. 弱點偵查
+3. 更新資料庫
+4. 使用nmap偵查並更新資料庫
+'''
 
 if __name__ == "__main__":
 
@@ -274,7 +356,9 @@ if __name__ == "__main__":
         exit()
     
     
-    
+    '''
+    1. 偵查引擎
+    '''
     ip = args.ip
     count = args.count
     api = dict()
@@ -286,13 +370,18 @@ if __name__ == "__main__":
     c = censys_engine(api)
     c.start()
     
+    '''
+    2. 弱點偵查
+    '''
     find_cve.findCveStart()
 
-    find_cve.putipInfo()
-
-    find_cve.update_table(table_id)
-
     '''
-    known ip update
+    3. 更新資料庫
+    '''
+    find_cve.putipInfo()
+    find_cve.update_table(table_id)
+    
+    '''
+    4. 使用nmap偵查並更新資料庫
     '''
     update_known_ip(table_id)

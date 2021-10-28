@@ -9,13 +9,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 '''
-find cve steps
-1. nmap_thread() : find cve by nmap
-2. getCveDescrip() : find cveDescrip、cvss by corresponding cve
-
-summary steps
-1. putipInfo() : summary each api info
-2. summary() : create a small db & write to the db(table_id:used to determine the db number)
+db_output()
+1. 將ip_infos存入資料庫
 '''
 
 cveInfos = []
@@ -35,6 +30,12 @@ ipInfo = {
 }
 ip_infos = []
 
+'''
+findCveStart() 
+
+功能:
+1. 將cve、cvss等長時間掃描之資料填空
+'''
 def findCveStart():
     filename = "/var/www/html/ccu_proj_manyPorts/api/log/cens_ip.log"
     if os.path.exists(filename) == False :
@@ -64,6 +65,12 @@ def findCveStart():
         cveInfo["cve"] = iot["cve"]
         cveInfos.append(cveInfo)
             
+'''
+putipInfo()
+
+功能
+1. 將偵查引擎結果與cve等資料轉成dict型態(變數ip_infos)
+'''
 def putipInfo():
     filename = "/var/www/html/ccu_proj_manyPorts/api/log/cens.log"
     f = open(filename,"r")
@@ -94,6 +101,13 @@ def putipInfo():
             cve_cur += 1
             ip_infos.append(ipInfo.copy())
 
+'''
+db_output()
+
+功能
+1. 新建一資料庫,table_id為它的資料庫編號
+2. 將ip_infos存入資料庫
+'''
 def db_output():
     db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)
     cursor = db.cursor()
@@ -177,6 +191,16 @@ def db_output():
     db.commit()
     db.close()
 
+'''
+update_table()
+
+功能
+1. 對資料庫重新建立
+
+input
+1. 遇重新建立之資料庫
+
+'''
 def update_table(table_id):
     db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)
     cursor = db.cursor()
@@ -255,6 +279,16 @@ def update_table(table_id):
     db.commit()
     db.close()
 
+'''
+summary()
+
+功能:
+1. 將資料填入資料庫中
+
+steps
+1. putipInfo()
+2. db_output()
+'''
 def summary():
     putipInfo()
     db_output()

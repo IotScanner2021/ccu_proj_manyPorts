@@ -1,3 +1,4 @@
+//以ip到資料庫load出相關資訊
 window.onload = function(){
 	var ip = document.getElementById('ip').innerHTML;
 	var table_id = document.getElementById('table_id').innerHTML;

@@ -6,13 +6,22 @@
 	$port = 3306;
 	$conn = mysqli_connect($severname,$username,$password,$database);
 
-	$ip = $_POST["ip"];
-	$devicetype = $_POST["devicetype"];
-	$productmodel = $_POST["productmodel"];
-	$os = $_POST["os"];
-	$site = $_POST["site"];
-
-	$table_id = $_GET["table_id"];
+	$ip = htmlentities($_POST["ip"]);
+	$devicetype = htmlentities($_POST["devicetype"]);
+	$productmodel = htmlentities($_POST["productmodel"]);
+	$os = htmlentities($_POST["os"]);
+	$site = htmlentities($_POST["site"]);	
+	$table_id = htmlentities($_GET["table_id"]);
+/*
+	$ip = htmlentities('"aaaaa"');
+	$devicetype = htmlentities('nas');
+	$productmodel = htmlentities('test');
+	$os = htmlentities('test');
+	$site = htmlentities('test');	
+	$table_id = htmlentities('2');
+ 	
+	echo $ip.$devicetype.$productmodel.$os.$site.$table_id;
+ */
 	$query = "insert into ip_" .$table_id. " (ip , device_type , product_model , os , site) values ('" .$ip. "' , '" .$devicetype. "' , '" .$productmodel. "' , '" .$os. "' , '" .$site. "')";
 	$result = $conn->query($query);
 	//echo $query;

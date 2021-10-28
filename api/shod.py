@@ -84,7 +84,7 @@ class shodan_engine():
         f.write(content)
         f.close()
 
-    ## use keyword to determine devie
+    # use keyword to determine devie
     def keywordMethod(self,info,ip):
         printer = self.json_extract(info, 'printer')
         camera = self.json_extract(info, 'camera')
@@ -105,14 +105,14 @@ class shodan_engine():
         else:
             print(ip + ":null")
 
-    ## if dict else list -> dict
+    # if dict else list -> dict
     def json_extract(self,info,keyword):
         elements = []
         self.extract(info, elements, keyword)
         return elements
 
     def extract(self,info,elements,keyword):
-        ## tell whether have keryword and where to find keyword 
+        # tell whether have keryword and where to find keyword 
         if isinstance(info, dict):
             for key, value in info.items():
                 if isinstance(value,(dict,list)):
@@ -130,11 +130,12 @@ class shodan_engine():
                 self.extract(item,elements,keyword)
         return elements
 
-    ## use feature to determine device
+    # use feature to determine device
     def featureMethod(self,info):
         self.portCheck(info)
         self.deviceCheck(info)
-
+    
+    # find the device by port
     def portCheck(self,info):
         ports = info['ports']
         if 515 in ports:
@@ -142,6 +143,7 @@ class shodan_engine():
         if 9100 in ports:
             print(content)
         
+    # find the device by name
     def deviceCheck(self,info):
         ports = info['ports']
         for i in range(len(ports)):

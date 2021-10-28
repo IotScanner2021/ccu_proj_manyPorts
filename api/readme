@@ -1,3 +1,16 @@
-summary
-input : log/cveInfo.log log/cens_log/xx
-output : log/ip/xxx log/device/xxx 
+file
+main.py : 建立資料庫
+exploit.py : exploit資料
+update.py : 更新資料庫
+cens.py : censys engine
+shod.py : shodan engine
+zoom.py : zoomeye engine
+table.txt : 目前資料庫建立需要的id
+
+directory
+exploit : exploit scripts
+log : 引擎輸出的檔案位置
+findLoadPage : 找是否登入頁面
+shod_file : 掃過的shod資料
+nmap_dir : nmap scripts
+zoomeye : zoomeye api

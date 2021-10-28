@@ -5,6 +5,26 @@ from cens import censys_engine
 from zoom import zoomeye_engine
 from parser import process_parser
 
+'''
+construct()
+
+功能:
+建立某區域資料庫
+
+init
+1. ip:建立區域
+2. count:掃描數量限制
+
+steps
+1. 偵查引擎 
+2. 弱點搜尋
+3. 建立資料庫
+
+note
+1. 現只使用censys_engine
+
+'''
+
 def construct():
     ## args prepare
     args = process_parser()
@@ -25,10 +45,8 @@ def construct():
     z = zoomeye_engine(api_key,ip,count)
     z.start()
     '''
-    api = dict()
     '''
-    api['id'] = "0cc7a541-dd23-471c-a70b-0d15d94c06ec"
-    api['secret'] = "dOppOon0bBs6W1lvp4D9YlhrXI55iRtc"
+    1. 偵查引擎 
     '''
     api = dict()
     api['id'] = "aabc85e8-b6b9-4692-921a-ed81d1b0a8fc"
@@ -40,12 +58,12 @@ def construct():
     c.start()
     
     '''
-    find cvee
+    2. 弱點搜尋
     '''
     find_cve.findCveStart()
     
     '''
-    summary info:devicetype,deviceModel,cvee,cvee description,cvss
+    3. 建立資料庫
     '''
     find_cve.summary()
 

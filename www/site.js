@@ -1,3 +1,4 @@
+// users can seperate the ip by the ip table
 function createTable(device){
 
 	var xhttp = new XMLHttpRequest();
@@ -10,15 +11,15 @@ function createTable(device){
 	xhttp.send();
 	obj = JSON.parse(xhttp.responseText);
 	
+	// if users does not have the ip table 
 	if(table_id != 1){
 		var row = document.getElementById(device);
 		var col = document.createElement('div');
-		//col.setAttribute('class','two column');
 		var card = document.createElement('div');
 		card.setAttribute('class','card');
 		card.setAttribute('style','width:1000px;margin:auto')
 		var tab = document.createElement('table');
-		tab.setAttribute('class','table'); //table-bordered');
+		tab.setAttribute('class','table');
 			
 		//thead
 		var thead = document.createElement('thead');
@@ -61,22 +62,12 @@ function createTable(device){
 		row.appendChild(col);
 		
 		return;
-		/*
-		all = document.getElementById('all');
-		for(var i=0;i<obj.length;i++){
-			console.log(obj[i]);
-			a = document.createElement('a');
-			a.href = "ip.php?ip=" + obj[i].ip + "&&table_id=" + table_id;
-			a.style = "display:block";
-			a.innerHTML = obj[i]["ip"];
-			all.appendChild(a);
-		}
-		return
-		*/
 	}
-	//alert(typeof(xhttp.responseText)); xhttp return string datatype
 	
-	var dict1 = {
+	// if users have the ip table 
+	
+// table in third part
+var dict1 = {
 		'資訊處' : [0 , 1 , 2 , 3 , 4 , 5 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 ,18 , 19 , 20 , 23 , 25 , 26 , 28 , 29 , 30 , 32 , 33 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 60 , 129 , 130 , 131 , 132 , 133 , 134 , 135 ,136 , 137 , 138 , 139 , 140 , 141 , 142 , 143 , 144 , 145 , 146 ,147 , 148 , 149 , 150 , 151 , 152 , 153 , 154 , 155 , 156 , 157 , 158 , 159 , 160 , 161 , 168 , 211 , 212 , 213 , 214 , 215 , 216 , 217 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 231 , 232 , 233 , 234 , 235 , 236 , 237 , 238 , 239 , 240 , 241 , 242 , 243 , 245 , 246 , 247 , 248 , 249 , 250 , 251 , 252 , 253 , 254 , 255],
 		'甄委會' : [6 , 7 , 8 , 27],
 		'圖書館' : [21 , 22 , 24],
@@ -150,6 +141,7 @@ var dict2 = {
 		'育成中心' : [244]
 };
 
+// table in fourth part
 var dict_31 = {
 		'秘書室' : [1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 , 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 , 41 , 42 , 43 , 44 , 45 , 46 , 47 , 48 , 49 , 50],
 		'校長室' : [1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 , 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 , 41 , 42 , 43 , 44 , 45 , 46 , 47 , 48 , 49 , 50 , 211 , 212 , 213 , 214 , 215 , 216 , 217 , 218 , 219 , 220],
@@ -247,13 +239,13 @@ var dict_37 = {
 						insert = 1;
 					}
 
-					// check the ip
+					// check the ip(it does NOT have already constructed the table)
 					if(start == 1){
 						start = 2;
 						var card = document.createElement('div');
 						card.setAttribute('class','card');
 						var tab = document.createElement('table');
-						tab.setAttribute('class','table'); //table-bordered');
+						tab.setAttribute('class','table');
 				
 						//thead
 						var thead = document.createElement('thead');
@@ -268,6 +260,7 @@ var dict_37 = {
 						//tbody
 						var tbody = document.createElement('tbody');
 					}
+					// check the ip(it has already constructed the table, only need to insert)
 					if(insert == 1){
 						tr = document.createElement('tr');
 						td = document.createElement('td');
@@ -283,6 +276,7 @@ var dict_37 = {
 					}		
 				}
 			}
+			// the site does NOT have device, so NOT to construct the table.
 			if(start != 0){
 				tab.appendChild(tbody);
 				card.appendChild(tab);

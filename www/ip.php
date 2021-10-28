@@ -57,7 +57,8 @@
 						const urlParams = new URLSearchParams(window.location.search);
 						const myParam = urlParams.get('ip');
 						let map_ip = myParam;
-						get_lat(map_ip);
+						//get_lat(map_ip);
+						lat(map_ip);
 					</script>
 				</div>
 			</div>

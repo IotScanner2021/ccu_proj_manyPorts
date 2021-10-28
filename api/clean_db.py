@@ -1,6 +1,11 @@
 import pymysql
 import sys
 
+'''
+for debug
+快速刪除某些資料庫
+'''
+
 if __name__ == "__main__":
     
     db = pymysql.connect(host="140.123.230.32",user="root",password="a407410040",db="iot",cursorclass=pymysql.cursors.DictCursor)

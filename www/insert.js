@@ -1,3 +1,4 @@
+// users can insert ip and some information of the device by himself
 function insertIP( table_id ){
 	var ip = document.forms["ipForm"]["ip"].value;
 	var devicetype = document.forms["ipForm"]["devicetype"].value;
