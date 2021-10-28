@@ -1,26 +1,39 @@
 # IOT scanner
 
 * client side
-  * construct
-  * search
-  * insert
+  * home page 
+  * construct page
+  * search page
+  * insert page
 * server side
   * information gathering
   * potential vulnerabilities collection
   * vulnerabilities validation
 
-## client slide
-### construct
-Construct a database for the client which could manages these devices easily.
-The database contains IOT device info(device type 、device model、open port...)、potential vulnerability.
+## 軟體資訊
+### Server
+OS : Ubuntu 20.04.2 LTS
 
-### search
+### Web
+Python : 3.8.10
+
+Nginx : nginx/1.18.0
+
+Mysql :  MySQL Ver 8.0.26
+
+Php : PHP 7.4.3
+
+## client slide
+### construct page
+Construct a database which could let your devices safely.
+
+The database contains IOT device info(device type 、device model、open port...)、potential vulnerability.
 
 ## server side
 ### information gathering
 searching engines
-1. shodan
-2. censys
+1. Shodan
+2. Censys
 
 devicetypes
 1. nas
@@ -34,9 +47,9 @@ determine devicetype methods
 
 ### potential vulnerabilities collection
 engines
-1. nmap
+1. Nmap
 
 ### vulnerabilities validation
 engine
-1. metasploit
+1. Metasploit
 
