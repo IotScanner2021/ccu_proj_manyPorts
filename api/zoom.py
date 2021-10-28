@@ -4,14 +4,18 @@ import os
 import json
 from zoomeye.sdk import ZoomEye
 from parser import process_parser
+# api of zoomeye search engine 
+# unuse
 
 class zoomeye_engine():
     
+    # initialize significant parameter ip
     def __init__(self,API_KEY,ip,count):
         self.api_key = API_KEY
         self.ip = ip
         self.count = count
 
+    # use api to scan ip
     def start(self):
         print("-----------------------")
         print("Start Zoomeye Process!!!")    
@@ -25,11 +29,12 @@ class zoomeye_engine():
         except BaseException:
             print("Error:zoomeye api could not start")
 
-
+    # write out to json file
     def json_output(self,data):
         j = json.dumps(data,indent=4)
         print(j)
 
+    # write to log file
     def writeToFile(self,name,content):
         direc = "/var/www/html/ccu_proj/api/log/zoom_log"
         if not os.path.isdir(direc):
@@ -39,6 +44,7 @@ class zoomeye_engine():
         f.write(content)
         f.close()
 
+    # 
     def scan_port(self,api):
         #pattern = "ip:\"" + self.ip + "\""
         pattern = self.ip

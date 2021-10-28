@@ -1,3 +1,4 @@
+<!-- insert the data to the database -->
 <!DOCTYPE html>
 <html>
 	<head>

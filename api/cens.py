@@ -5,6 +5,8 @@ import os
 import sys
     
 class censys_engine():
+
+    #set up the parameter of Censys API
     def __init__(self,api_info):
         self.id = api_info['id']
         self.secret = api_info['secret']
@@ -13,6 +15,7 @@ class censys_engine():
         #fields:output
         self.fields = ["ip", "metadata.description", "metadata.device_type", "metadata.os", "protocols"]
     
+    #input the ID and Password, then run the API
     def start(self):
         print("-----------------------")
         print("Start Censys Process!!!")
@@ -26,7 +29,7 @@ class censys_engine():
             print(sys.exc_info())
             exit(0)
 
-
+    #get the result from API and print it
     def format(self,page):
         ip = page.get("ip","None")
         os = page.get("metadata.os","None")
@@ -34,7 +37,8 @@ class censys_engine():
         protocols = ", ".join([str(p.encode('UTF-8'), errors='ignore') for p in protocols])
         print("ip:" + ip, end = '\t')
         print("\n")
-
+    
+    #write the result to file
     def writeToFile(self,content):
         filename = "/var/www/html/ccu_proj_manyPorts/api/log/cens.log"
         f = open(filename,"a+")
@@ -50,6 +54,7 @@ class censys_engine():
         self.findDevice(api,'camera')
         self.findDevice(api,'nas')
         
+    #set up the searching query of the API and run it
     def findDevice(self,api,keyword):
         query = self.ip + ' and '+ keyword
 
@@ -120,6 +125,7 @@ if __name__ == "__main__":
 
     args = process_parser()
 
+    #set up API info(ID, password, IP, device number)
     api_info = dict()
     api_info['id'] = "558d0b15-07a5-47a4-b68f-b0530181f791"
     api_info['secret'] = "YwgekK1zvhvmn2rjRmQPFblsKNIMlFwC"

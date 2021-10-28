@@ -10,6 +10,7 @@ function update(){
 	})
 }
 
+//create the pie chart
 function chart(){
 	table_id = document.getElementById("table_id").innerHTML;
 	xhttp = new XMLHttpRequest();
@@ -57,6 +58,7 @@ function chart(){
 	var x = document.getElementById("search_result");
 	if(x.style.display == "none") x.style.display = "block";
 
+	//print the deivce number of different divice type
 	document.getElementById("camera_num").innerHTML = "<p class='card-text text-center fs-4 text-white' id='camera_num'>" + res["camera"] + "</p>";
 	document.getElementById("router_num").innerHTML = "<p class='card-text text-center fs-4 text-white' id='router_num'>" + res["router"] + "</p>";
 	document.getElementById("printer_num").innerHTML = "<p class='card-text text-center fs-4 text-white' id='printer_num'>" + res["printer"] + "</p>";

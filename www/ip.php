@@ -1,3 +1,4 @@
+<!-- The page to present information about IP -->
 <!DOCTYPE html>
 <html>
     <head>
@@ -49,6 +50,7 @@
 		</div>
 	</div>
   <div class="row" style="height:250px;">
+		<!-- container for present map -->
 		<div class="col">
 			<div id="table_id" style="display:none"><?php echo $_GET["table_id"];?></div>
 			<div class="card" style="height:100%">
@@ -72,8 +74,9 @@
                 </div>
                 <div class="row">
                     <table class="table table-striped">
-                        <tbody>
-				<?php
+			<tbody>
+			<!-- load infromation from mysql -->
+				<?php 
 					$severname = "localhost";
 					$username = "root";
 					$password = "a407410040";

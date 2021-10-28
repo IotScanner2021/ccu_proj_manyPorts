@@ -1,3 +1,4 @@
+<!-- insert the data to the database for post -->
 <?php
     	$severname = "localhost";
     	$username = "root";
